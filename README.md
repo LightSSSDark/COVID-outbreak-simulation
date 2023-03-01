@@ -10,5 +10,5 @@ Then, run these commands on terminal in the right directory
 make
 ./simulator
 ```
-### The output of this program looks something like this:
-https://github.com/LightSSSDark/COVID-outbreak-simulation/blob/main/output1.png
+### The output of this program will look something like this:
+<img src ="https://github.com/LightSSSDark/COVID-outbreak-simulation/blob/main/output1.png" alt="Output"/>
